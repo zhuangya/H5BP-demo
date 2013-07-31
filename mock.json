@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "title" : "Hello! This is my website!",
+    "subtitle" : "And here's some info about me.",
+    "image" : {
+      "url" : "https://si0.twimg.com/profile_images/1343314846/Smiley-Transparent-500.png",
+      "title" : "Smiley face"
+    }
+  },
+  "sidebar" : {
+    "title" : "My Favs",
+    "links" : [
+      {
+        "text" : "Google.com",
+        "url" : "http://google.com"
+      },
+      {
+        "text" : "Yahoo.com",
+        "url" : "http://yahoo.com"
+      },
+      {
+        "text" : "eBay.com",
+        "url" : "http://ebay.com"
+      },
+      {
+        "text" : "Amazon.com",
+        "url" : "http://amazon.com"
+      }
+    ]
+  },
+  "articles" : [
+    {
+      "title" : "Article 1",
+      "text" : "Article 1 text goes here."
+    },
+    {
+      "title" : "Article 2",
+      "text" : "Article 2 text goes here."
+    },
+    {
+      "title" : "Article 3",
+      "text" : "Article 3 text goes here. Article 3 text goes here. Article 3 text goes here."
+    },
+    {
+      "title" : "Article 4",
+      "text" : "Article 4 text goes here. Article 4 text goes here. Article 4 text goes here."
+    }
+  ]
+}

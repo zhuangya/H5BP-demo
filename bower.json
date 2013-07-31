@@ -1,0 +1,16 @@
+{
+  "name": "exam",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.10.2",
+    "mustache": "~0.7.2",
+    "skeleton": "*"
+  }
+}
