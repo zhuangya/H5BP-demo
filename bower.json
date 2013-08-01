@@ -11,6 +11,8 @@
   "dependencies": {
     "jquery": "1.10.2",
     "mustache": "~0.7.2",
-    "skeleton": "*"
+    "skeleton": "*",
+    "html5shiv": "~3.6.2",
+    "box-sizing-polyfill": "*"
   }
 }
